@@ -13,3 +13,7 @@ Repositório criado para o desafio FullCycle
 ## Executando o container
 
 > docker run --rm douglasprado/fullcycle
+
+## Repositório da imagem
+
+> https://hub.docker.com/r/douglasprado/fullcycle
